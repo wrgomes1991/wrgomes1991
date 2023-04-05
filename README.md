@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wrgomes1991
 - 👀 I’m interested in K8s, Python/Go/Shell, IaC (Terraform, Pulumi)
-- 🌱 I’m currently learning k8s
+- 🌱 I’m currently learning Python
 - 📫 How to reach me wrgomes1991@gmail.com
 
 <!---
